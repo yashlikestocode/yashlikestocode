@@ -62,9 +62,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashlikestocode&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashlikestocode" alt="streak stats" />
 </p>
