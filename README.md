@@ -64,3 +64,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashlikestocode" alt="streak stats" />
 </p>
+
+
+![snake gif](https://github.com/yashlikestocode/yashlikestocode/blob/output/github-snake-dark.svg)
